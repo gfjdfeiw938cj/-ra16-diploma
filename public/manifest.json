@@ -1,0 +1,20 @@
+{
+  "short_name": "React Diploma",
+  "name": "Aleksandr Shatskikh React Diploma",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img/header-logo.png",
+      "type": "image/png",
+      "sizes": "184x59"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
